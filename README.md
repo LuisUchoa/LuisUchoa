@@ -1,14 +1,14 @@
-🛠️ Minha Stack Técnica
-Aqui estão as tecnologias e ferramentas com as quais eu tenho experiência:
+<p>🛠️ <strong>Minha Stack Técnica</strong></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,typescript,php,nodejs,react,express,mysql,yarn" alt="Stack Técnica" />
+</a>
 
-Linguagens: JavaScript, TypeScript, PHP
+<p><strong>Ferramentas:</strong></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,git,vscode" alt="Ferramentas" />
+</a>
 
-Frameworks/Bibliotecas: Node.js, React, Express.js
-
-Banco de Dados: MySQL
-
-Plataformas: IBM Watson Assistant, ServiceNow, Twilio
-
-Ferramentas: Postman, Git, VS Code
-
-Metodologias: Scrum, Kanban
+<p><strong>Estudando...</strong></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,angular" alt="Estudando" />
+</a>
