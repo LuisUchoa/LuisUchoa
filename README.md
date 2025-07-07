@@ -1,5 +1,4 @@
 <h1><p><strong>Luis Guilherme Uchoa</strong></p></h2>
-<h2><p><strong>Redes Sociais</strong></p></h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guilherme-uchoa-6222b2b7/) 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lguilhermeuchoa@gmail.com)
