@@ -1,6 +1,7 @@
 <h1>Luis Guilherme Uchoa</h1>
 <h2>Redes Sociais</h2>
-https://img.shields.io/badge/LinkedIn-Perfil-0A66C2%3Flogo%3Dlinkedin%26logoColor%3Dwhite?link=(https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluis-guilherme-uchoa-6222b2b7%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guilherme-uchoa-6222b2b7/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:lguilhermeuchoa@gmail.com)
 
 <p>🛠️ <strong>Minha Stack Técnica</strong></p>
 <a href="https://skillicons.dev">
